@@ -21,4 +21,5 @@ console.log("加载成功");
  require(["nav"],function(nav){
      nav.download();
      nav.banner();
+     nav.leftNavTab();
  })
