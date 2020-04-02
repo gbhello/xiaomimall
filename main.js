@@ -22,4 +22,5 @@ console.log("加载成功");
      nav.download();
      nav.banner();
      nav.leftNavTab();
+     nav.topNavTab();
  })
